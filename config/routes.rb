@@ -3,7 +3,7 @@ Test32::Application.routes.draw do
 
   resources :tests
 
-
+  #adding comment	
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
